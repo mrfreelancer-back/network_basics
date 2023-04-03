@@ -1,0 +1,12 @@
+1. IPv4(version4 ip) is 32-bit
+2. IPv6(version6 ip) is 128-bit
+3. What are host & network in this IP?(IP=172.17.10.10, Subnetmask=255.255.0.0)
+	host: 10.10, network: 172.17
+4. What the type of this IP?(192.168.20.4/16)
+	private
+5. Which one is a valid ip for a network card?
+1- 192.168.10.0/24
+2- 10.10.10.255/24
+3-256.10.10.10/24
+4-56.41.26.8/15
+	4(56.41.26.8/15)

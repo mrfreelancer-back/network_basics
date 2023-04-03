@@ -1,0 +1,8 @@
+1. What's the main job od a router device?
+	- make connection between devices which are not a a same network
+	- routing data from an IP address & send it to a other networks
+2. What's the meaning of "default route"?
+	if didn't recognize the IP address destination, is gonna send it from a default route
+3. when a laptop at home connects to 'wifi', actually a default route between laptop & wifi appears to connect the internet
+4. Do the network cards of a router & switch have to get an IP?
+	router: yes, switch: no

@@ -1,0 +1,8 @@
+1. DNS:
+- changes domain name to IP and reversing
+- changes IP to domain name and reversing
+2. In DNS protocol, what the "A" type request?
+	a request to find IPv4
+3. nslookup in CMD or powershell:
+...	nslookup web.com 8.8.8.8
+...	nslookup web.com 4.2.2.4

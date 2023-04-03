@@ -1,0 +1,11 @@
+1. What's DHCP(Dynamic Host Configuration Protocol)'s protocol?
+	a protocol to automatically network configs like givin' an IP to client's network card
+2. the steps between client & server in DHCP protocol:
+discovery
+offer
+request
+acknowledge
+3. DHCP works on UDP(user datagram protocol) protocol.
+4. the Discovery message in DHCP is in broadcast category.
+5. In DHCP configuraion can we do something to always give a device a special IP?
+	Yes.

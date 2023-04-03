@@ -1,0 +1,3 @@
+1. in connceting with WIFI no device can get a public IP address
+& when we google our IP address, catually it shows our outside of home's WIFI's IP address.
+2. in RIP protocol if there will be 2 ways to get to a network, it chooses the ways which has 'less HOP'.

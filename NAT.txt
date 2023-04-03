@@ -1,0 +1,10 @@
+1. the reasons of having NAT(network address translation):
+- ipv4 is too few, and its public & private
+- too much route using in the world
+2. facts about NAT:
+-1 NAT changes the destination of packets
+-2 NAT changes the source of packets
+-3 in NAT each public IP has a private IP
+3. when our laptop connects to WIFI, we see that our network card IP is '192.168.10.10'
+but, when we search our IP address in google, it is '17.6.145.8'
+this means our modem as a router, does the job of PAT every time we connect to the internet

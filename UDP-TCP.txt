@@ -1,0 +1,11 @@
+1. What's the reason of having 'port' in network world?
+	to access a special service from connection device(computer, server & etc...) in network or internet
+2. facts about TCP(transmission control protocol) & UDP(user datagram protocol):
+- in UDP, you don't know the packet sent to the destination & recived 
+- in TCP, two devices are constantly connecting
+- DNS protocol, is in UDP
+- phone calls in the internet, is in UDP
+3. more facts:
+- in TCP, there is secure & safe connection according to the answer you get 
+- UDP is faster than TCP
+- TCP needs more process than UDP

@@ -1,0 +1,6 @@
+1. the ping command which is a connection checking tool in Network, work with icmp(internet control message protocol) protocol.
+2. according to the OSI model, Switch device with 2nd layer(data link).
+3. any network card in digital gadgets like laptop mobile & etc, has a a unique MAC address associated with it.
+4. when we send data that we put FF:FF:FF:FF:FF:FF as destination, the data packet sends by Broadcast(sending to all computer which are connected to the switch) protocol.
+5. How is connecting with ping by using IP?
+	computers & switches can recognize each IP's Port & MAC by ARP table.
